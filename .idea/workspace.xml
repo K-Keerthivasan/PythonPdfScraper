@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c805bffb-0ac9-4c06-b127-f7c24e5b00a7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/PythonPDFScraper.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.ArcBiox™ BGF30–HA - ABMcomposite.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpecialChem/1.arnitelvt7812ensi.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpecialChem/10.AGENACOMP® F51 - AGRANA.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpecialChem/11.Ceramis® -PLA - Amcor.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpecialChem/12.ecovio® FS2312 - BASF.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpecialChem/13.ecovio® FT2341 - BASF.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpecialChem/14.ecovio® IA1652 - BASF.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpecialChem/14.ecovio® T2206 - BASF.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpecialChem/15.ecovio® IS1335 - BASF.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpecialChem/16.Mvera™ B5002 - BIO-FED.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpecialChem/17.MedEco ICB - BIOVOX.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpecialChem/18.MedEco ICB C1 - BIOVOX.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpecialChem/19.MedEco IGH - BIOVOX.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpecialChem/2.ArcBiox™ BGF30–HA - ABMcomposite.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpecialChem/3.ArcBiox™ BGF30–JA - ABMcomposite.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpecialChem/4.ArcBiox™ CA4 - ABMcomposite.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpecialChem/5.ArcBiox™ ED4 - ABMcomposite.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpecialChem/6.MAJ'ECO FE010E-8229 - ADmajoris.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpecialChem/7.MAJ'ECO GN080BS - ADmajoris.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpecialChem/8.AGENACOMP® F40 - AGRANA.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpecialChem/9.AGENACOMP® F50 - AGRANA.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/camelottest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2kyj7lUhIsQIKTTeVHC7B3SkL20" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python.camelottest.executor": "Run",
+    "Python.main.executor": "Debug",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/Materia BioWorks/Projects/PythonPDFScraper",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Materia BioWorks\Projects\PythonPDFScraper" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.camelottest">
+    <configuration name="camelottest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonPDFScraper" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/camelottest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="PythonPDFScraper" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.camelottest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-PY-241.14494.241" />
+        <option value="bundled-python-sdk-0509580d9d50-28c9f5db9ffe-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.14494.241" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c805bffb-0ac9-4c06-b127-f7c24e5b00a7" name="Changes" comment="" />
+      <created>1724262546028</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1724262546028</updated>
+      <workItem from="1724262554781" duration="4110000" />
+      <workItem from="1724270596393" duration="3116000" />
+      <workItem from="1724273753042" duration="2425000" />
+      <workItem from="1724279699854" duration="1472000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PythonPDFScraper$camelottest.coverage" NAME="camelottest Coverage Results" MODIFIED="1724280760710" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonPDFScraper$main.coverage" NAME="main Coverage Results" MODIFIED="1724262782599" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
