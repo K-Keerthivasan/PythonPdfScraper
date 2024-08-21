@@ -4,38 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c805bffb-0ac9-4c06-b127-f7c24e5b00a7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/PythonPDFScraper.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.ArcBiox™ BGF30–HA - ABMcomposite.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpecialChem/1.arnitelvt7812ensi.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpecialChem/10.AGENACOMP® F51 - AGRANA.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpecialChem/11.Ceramis® -PLA - Amcor.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpecialChem/12.ecovio® FS2312 - BASF.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpecialChem/13.ecovio® FT2341 - BASF.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpecialChem/14.ecovio® IA1652 - BASF.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpecialChem/14.ecovio® T2206 - BASF.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpecialChem/15.ecovio® IS1335 - BASF.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpecialChem/16.Mvera™ B5002 - BIO-FED.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpecialChem/17.MedEco ICB - BIOVOX.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpecialChem/18.MedEco ICB C1 - BIOVOX.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpecialChem/19.MedEco IGH - BIOVOX.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpecialChem/2.ArcBiox™ BGF30–HA - ABMcomposite.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpecialChem/3.ArcBiox™ BGF30–JA - ABMcomposite.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpecialChem/4.ArcBiox™ CA4 - ABMcomposite.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpecialChem/5.ArcBiox™ ED4 - ABMcomposite.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpecialChem/6.MAJ'ECO FE010E-8229 - ADmajoris.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpecialChem/7.MAJ'ECO GN080BS - ADmajoris.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpecialChem/8.AGENACOMP® F40 - AGRANA.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpecialChem/9.AGENACOMP® F50 - AGRANA.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/camelottest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="c805bffb-0ac9-4c06-b127-f7c24e5b00a7" name="Changes" comment="First Push 👀" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -156,8 +125,17 @@
       <workItem from="1724262554781" duration="4110000" />
       <workItem from="1724270596393" duration="3116000" />
       <workItem from="1724273753042" duration="2425000" />
-      <workItem from="1724279699854" duration="1472000" />
+      <workItem from="1724279699854" duration="2481000" />
     </task>
+    <task id="LOCAL-00001" summary="First Push 👀">
+      <option name="closed" value="true" />
+      <created>1724281968865</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1724281968865</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -165,6 +143,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="First Push " />
+    <option name="LAST_COMMIT_MESSAGE" value="First Push " />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PythonPDFScraper$camelottest.coverage" NAME="camelottest Coverage Results" MODIFIED="1724280760710" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
